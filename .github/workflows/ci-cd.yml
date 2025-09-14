@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  DOCKER_IMAGE_NAME: your-dockerhub-username/cicd-demo-app
+  DOCKER_IMAGE_NAME: rugved2005/cicd-demo-app
 
 jobs:
   test:
